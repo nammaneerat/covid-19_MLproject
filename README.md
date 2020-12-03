@@ -1,3 +1,7 @@
+## Analysis of the COVID-19 spreading rate and the 7-day forecasting model in the US
+
+#### (Patcharaporn Maneerat,Yuexin Li, Danqing Wang)
+
 The coronavirus 2019 (COVID-19) has been severely spreading across the US, and the state governors
 and federal government have issued several orders to control the situation. According to this circumstance
 this study aims to (1) find factors influencing the virus spreading rates across the country, and (2) predict
