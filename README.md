@@ -1,6 +1,6 @@
 ## Analysis of the COVID-19 spreading rate and the 7-day forecasting model in the US
 
-#### (Patcharaporn Maneerat, Yuexin Li, Danqing Wang)
+### (Patcharaporn Maneerat, Yuexin Li, Danqing Wang)
 
 The coronavirus 2019 (COVID-19) has been severely spreading across the US, and the state governors
 and federal government have issued several orders to control the situation. According to this circumstance
@@ -17,3 +17,11 @@ polynomial degree. However, for our final models, we decide to keep the degree l
 and RMSE are still significantly improved from the original linear models. Accordingly, this project is the
 preliminary work that will improve our understanding of the virus spreading factors and be useful for
 further studies.
+
+
+#### Datasets
+There are two major datasets used in this study. One is from the Center for Systems Science and
+Engineering at Johns Hopkins University while another is from the UC Berkeley Department of Statistics.
+The first dataset includes the US time series of COVID-19 confirmed and dead cases. The second dataset is
+the US population database. This file includes many details, i.e. population, percentage of diabetes,
+numbers of hospitals, dates of the orders announced after the first COVID-19 confirmed case, etc.
