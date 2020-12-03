@@ -19,7 +19,7 @@ preliminary work that will improve our understanding of the virus spreading fact
 further studies.
 
 
-#### Datasets
+#### Datasets:
 There are two major datasets used in this study. One is from the Center for Systems Science and
 Engineering at Johns Hopkins University while another is from the UC Berkeley Department of Statistics.
 The first dataset includes the US time series of COVID-19 confirmed and dead cases. The second dataset is
